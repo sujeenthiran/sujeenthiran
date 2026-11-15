@@ -34,6 +34,7 @@
 |---|---|---|
 | ♻️ [hackathon](https://github.com/sujeenthiran/hackathon) | Carte des stations de tri Trilib' à Paris (API Open Data), événements et photos. Revue de sécurité en 2026 | PHP · MySQL · Python · Leaflet |
 | 🏫 [ecole](https://github.com/sujeenthiran/ecole) | Gestion scolaire : tuteurs, élèves, paiements, triggers MySQL, factures PDF. Revue de sécurité en 2026 | PHP · MySQL · TCPDF |
+| 🛒 [NoShop](https://github.com/sujeenthiran/NoShop) | Site e-commerce en équipe : sessions, upload d'images, scraping Python. Revue de sécurité en 2026 | Node.js · Express · MongoDB · Selenium |
 | 🎸 [Groupie-Tracker](https://github.com/sujeenthiran/Groupie-Tracker) | Site d'artistes alimenté par une API REST | Go |
 | 🚗 [gta-concession](https://github.com/sujeenthiran/gta-concession) | API de suivi des ventes pour un serveur de jeu de rôle | Node.js · Express |
 | 🌆 [vbase](https://github.com/sujeenthiran/vbase) | Site vitrine configurable pour un serveur FiveM | HTML · CSS · JS |
