@@ -32,11 +32,11 @@
 
 | Projet | Description | Stack |
 |---|---|---|
-| ♻️ [hackathon](https://github.com/sujeenthiran/hackathon) | Carte des stations de tri Trilib' à Paris (API Open Data), événements et photos. Revue de sécurité en 2026 | PHP · MySQL · Python · Leaflet |
-| 🏫 [ecole](https://github.com/sujeenthiran/ecole) | Gestion scolaire : tuteurs, élèves, paiements, triggers MySQL, factures PDF. Revue de sécurité en 2026 | PHP · MySQL · TCPDF |
-| 🛒 [NoShop](https://github.com/sujeenthiran/NoShop) | Site e-commerce en équipe : sessions, upload d'images, scraping Python. Revue de sécurité en 2026 | Node.js · Express · MongoDB · Selenium |
-| 🎸 [Groupie-Tracker](https://github.com/sujeenthiran/Groupie-Tracker) | Site d'artistes alimenté par une API REST | Go |
-| 🤖 [Bot_Discord](https://github.com/sujeenthiran/Bot_Discord) | Bot de modération Discord basé sur des structures de données codées à la main (liste chaînée, file, arbre, table de hachage) | Python · discord.py |
+| ♻️ [hackathon-trilib](https://github.com/sujeenthiran/hackathon-trilib) | Carte des stations de tri Trilib' à Paris (API Open Data), événements et photos. Revue de sécurité en 2026 | PHP · MySQL · Python · Leaflet |
+| 🏫 [gestion-scolaire](https://github.com/sujeenthiran/gestion-scolaire) | Gestion scolaire : tuteurs, élèves, paiements, triggers MySQL, factures PDF. Revue de sécurité en 2026 | PHP · MySQL · TCPDF |
+| 🛒 [noshop](https://github.com/sujeenthiran/noshop) | Site e-commerce en équipe : sessions, upload d'images, scraping Python. Revue de sécurité en 2026 | Node.js · Express · MongoDB · Selenium |
+| 🎸 [groupie-tracker](https://github.com/sujeenthiran/groupie-tracker) | Site d'artistes alimenté par une API REST | Go |
+| 🤖 [bot-discord](https://github.com/sujeenthiran/bot-discord) | Bot de modération Discord basé sur des structures de données codées à la main (liste chaînée, file, arbre, table de hachage) | Python · discord.py |
 
 </details>
 
