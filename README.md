@@ -1,5 +1,4 @@
-<h1 align="center">Salut, moi c'est Sujeenthiran 👋</h1>
-<p align="center"><b>Étudiant en Bachelor 3 Cybersécurité (Ynov Campus Lyon) · Systèmes &amp; Réseaux</b></p>
+<p align="center"><img src="assets/banner.svg" alt="Sujeenthiran Naveendran – Étudiant en cybersécurité" width="100%"></p>
 <p align="center">
   🔎 Je recherche une <b>alternance en cybersécurité / infrastructure</b> · 12 à 24 mois · rythme 1 semaine école / 2 semaines entreprise · Ain – Lyon
 </p>
@@ -21,22 +20,24 @@
 
 ### 🛡️ Cybersécurité & Infrastructure
 
-| Projet | Ce que j'ai réalisé | Technologies |
-|---|---|---|
-| [**homelab**](https://github.com/sujeenthiran/homelab) | Infrastructure réseau sécurisée **en production** pour un foyer : pare-feu périmétrique, filtrage DNS/IP, IPS collaboratif, QoS, accès distant zero-trust, cloud auto-hébergé, **audit de sécurité et durcissement** | pfSense · pfBlockerNG · CrowdSec · Tailscale · Docker · Nextcloud |
-| [**mon-soc**](https://github.com/sujeenthiran/mon-soc) | Mini-**SOC** : supervision des appareils et des flux en temps réel, **réponse à incident en un clic** (blocage de domaine, mise en quarantaine d'un hôte) via les API du pare-feu | Python · FastAPI · Docker · API ntopng / pfSense |
+<p align="center">
+  <a href="https://github.com/sujeenthiran/homelab"><img src="assets/card-homelab.svg" alt="homelab" width="49%"></a>
+  <a href="https://github.com/sujeenthiran/mon-soc"><img src="assets/card-mon-soc.svg" alt="mon-soc" width="49%"></a>
+</p>
+
+<p align="center"><a href="https://github.com/sujeenthiran/mon-soc"><img src="https://raw.githubusercontent.com/sujeenthiran/mon-soc/main/docs/capture.png" alt="Capture du tableau de bord Mon SOC (données de démonstration)" width="98%"></a><br><sub>Mon SOC – tableau de bord de supervision (données de démonstration)</sub></p>
 
 ### 💻 Développement & sécurité applicative
 
 Projets d'études repris en 2026 : **audit de sécurité et remédiation** des vulnérabilités du Top 10 OWASP (injections SQL/NoSQL, XSS, authentification, upload de fichiers, secrets dans le code).
 
-| Projet | Description | Technologies |
-|---|---|---|
-| [**gestion-scolaire**](https://github.com/sujeenthiran/gestion-scolaire) | Application de gestion administrative d'une école : élèves, tuteurs, suivi des paiements, génération de factures PDF | PHP · MySQL · TCPDF |
-| [**hackathon-trilib**](https://github.com/sujeenthiran/hackathon-trilib) | Carte interactive des stations de tri de Paris à partir de l'Open Data, réalisée en **3 jours de hackathon** | PHP · MySQL · Python · Leaflet |
-| [**noshop**](https://github.com/sujeenthiran/noshop) | Plateforme e-commerce en **équipe de 5** : comptes, sessions, catalogue, upload d'images, scraping | Node.js · Express · MongoDB · Selenium |
-| [**bot-discord**](https://github.com/sujeenthiran/bot-discord) | Bot de modération avec contrôle des permissions, construit sur des **structures de données implémentées à la main** | Python · discord.py |
-| [**groupie-tracker**](https://github.com/sujeenthiran/groupie-tracker) | Application web consommant une **API REST** (artistes, concerts) | Go |
+<p align="center">
+  <a href="https://github.com/sujeenthiran/gestion-scolaire"><img src="assets/card-gestion-scolaire.svg" alt="gestion-scolaire" width="49%"></a>
+  <a href="https://github.com/sujeenthiran/hackathon-trilib"><img src="assets/card-hackathon-trilib.svg" alt="hackathon-trilib" width="49%"></a>
+  <a href="https://github.com/sujeenthiran/noshop"><img src="assets/card-noshop.svg" alt="noshop" width="49%"></a>
+  <a href="https://github.com/sujeenthiran/bot-discord"><img src="assets/card-bot-discord.svg" alt="bot-discord" width="49%"></a>
+  <a href="https://github.com/sujeenthiran/groupie-tracker"><img src="assets/card-groupie-tracker.svg" alt="groupie-tracker" width="49%"></a>
+</p>
 
 > 🌐 Tous mes projets sont présentés sur mon portfolio : **[sujeenthiran.github.io](https://sujeenthiran.github.io)**
 
