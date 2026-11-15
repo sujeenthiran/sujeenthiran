@@ -19,26 +19,26 @@
 - 🏅 Certification **Cybersécurité 101** (avril 2025)
 - 🎯 Objectif : rejoindre une équipe sécurité ou infrastructure, puis poursuivre en Mastère
 
-### 📌 Projets à la une
+### 🛡️ Cybersécurité & Infrastructure
 
-| Projet | Description | Stack |
+| Projet | Ce que j'ai réalisé | Technologies |
 |---|---|---|
-| 🛡️ [**homelab**](https://github.com/sujeenthiran/homelab) | Réseau familial sécurisé par pfSense : filtrage DNS et IP, IPS communautaire, QoS anti-latence, VPN, cloud auto-hébergé et audit de sécurité | pfSense · pfBlockerNG · CrowdSec · Tailscale · Docker |
-| 📊 [**mon-soc**](https://github.com/sujeenthiran/mon-soc) | Tableau de bord de sécurité maison : appareils et trafic en temps réel, blocage d'un site ou mise en quarantaine d'un appareil en un clic | Python · FastAPI · Docker · API ntopng / pfSense |
-| 🌐 [**Portfolio**](https://github.com/sujeenthiran/sujeenthiran.github.io) | Mon portfolio en ligne | HTML · CSS |
+| [**homelab**](https://github.com/sujeenthiran/homelab) | Infrastructure réseau sécurisée **en production** pour un foyer : pare-feu périmétrique, filtrage DNS/IP, IPS collaboratif, QoS, accès distant zero-trust, cloud auto-hébergé, **audit de sécurité et durcissement** | pfSense · pfBlockerNG · CrowdSec · Tailscale · Docker · Nextcloud |
+| [**mon-soc**](https://github.com/sujeenthiran/mon-soc) | Mini-**SOC** : supervision des appareils et des flux en temps réel, **réponse à incident en un clic** (blocage de domaine, mise en quarantaine d'un hôte) via les API du pare-feu | Python · FastAPI · Docker · API ntopng / pfSense |
 
-<details>
-<summary><b>Projets d'études et personnels</b></summary>
+### 💻 Développement & sécurité applicative
 
-| Projet | Description | Stack |
+Projets d'études repris en 2026 : **audit de sécurité et remédiation** des vulnérabilités du Top 10 OWASP (injections SQL/NoSQL, XSS, authentification, upload de fichiers, secrets dans le code).
+
+| Projet | Description | Technologies |
 |---|---|---|
-| ♻️ [hackathon-trilib](https://github.com/sujeenthiran/hackathon-trilib) | Carte des stations de tri Trilib' à Paris (API Open Data), événements et photos. Revue de sécurité en 2026 | PHP · MySQL · Python · Leaflet |
-| 🏫 [gestion-scolaire](https://github.com/sujeenthiran/gestion-scolaire) | Gestion scolaire : tuteurs, élèves, paiements, triggers MySQL, factures PDF. Revue de sécurité en 2026 | PHP · MySQL · TCPDF |
-| 🛒 [noshop](https://github.com/sujeenthiran/noshop) | Site e-commerce en équipe : sessions, upload d'images, scraping Python. Revue de sécurité en 2026 | Node.js · Express · MongoDB · Selenium |
-| 🎸 [groupie-tracker](https://github.com/sujeenthiran/groupie-tracker) | Site d'artistes alimenté par une API REST | Go |
-| 🤖 [bot-discord](https://github.com/sujeenthiran/bot-discord) | Bot de modération Discord basé sur des structures de données codées à la main (liste chaînée, file, arbre, table de hachage) | Python · discord.py |
+| [**gestion-scolaire**](https://github.com/sujeenthiran/gestion-scolaire) | Application de gestion administrative d'une école : élèves, tuteurs, suivi des paiements, génération de factures PDF | PHP · MySQL · TCPDF |
+| [**hackathon-trilib**](https://github.com/sujeenthiran/hackathon-trilib) | Carte interactive des stations de tri de Paris à partir de l'Open Data, réalisée en **3 jours de hackathon** | PHP · MySQL · Python · Leaflet |
+| [**noshop**](https://github.com/sujeenthiran/noshop) | Plateforme e-commerce en **équipe de 5** : comptes, sessions, catalogue, upload d'images, scraping | Node.js · Express · MongoDB · Selenium |
+| [**bot-discord**](https://github.com/sujeenthiran/bot-discord) | Bot de modération avec contrôle des permissions, construit sur des **structures de données implémentées à la main** | Python · discord.py |
+| [**groupie-tracker**](https://github.com/sujeenthiran/groupie-tracker) | Application web consommant une **API REST** (artistes, concerts) | Go |
 
-</details>
+> 🌐 Tous mes projets sont présentés sur mon portfolio : **[sujeenthiran.github.io](https://sujeenthiran.github.io)**
 
 ### 🛠️ Compétences
 
