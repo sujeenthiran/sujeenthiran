@@ -36,6 +36,7 @@
 | 🏫 [ecole](https://github.com/sujeenthiran/ecole) | Gestion scolaire : tuteurs, élèves, paiements, triggers MySQL, factures PDF. Revue de sécurité en 2026 | PHP · MySQL · TCPDF |
 | 🛒 [NoShop](https://github.com/sujeenthiran/NoShop) | Site e-commerce en équipe : sessions, upload d'images, scraping Python. Revue de sécurité en 2026 | Node.js · Express · MongoDB · Selenium |
 | 🎸 [Groupie-Tracker](https://github.com/sujeenthiran/Groupie-Tracker) | Site d'artistes alimenté par une API REST | Go |
+| 🤖 [Bot_Discord](https://github.com/sujeenthiran/Bot_Discord) | Bot de modération Discord basé sur des structures de données codées à la main (liste chaînée, file, arbre, table de hachage) | Python · discord.py |
 | 🚗 [gta-concession](https://github.com/sujeenthiran/gta-concession) | API de suivi des ventes pour un serveur de jeu de rôle | Node.js · Express |
 | 🌆 [vbase](https://github.com/sujeenthiran/vbase) | Site vitrine configurable pour un serveur FiveM | HTML · CSS · JS |
 
