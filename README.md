@@ -23,6 +23,8 @@
 <p align="center">
   <a href="https://github.com/sujeenthiran/homelab"><img src="assets/card-homelab.svg" alt="homelab" width="49%"></a>
   <a href="https://github.com/sujeenthiran/mon-soc"><img src="assets/card-mon-soc.svg" alt="mon-soc" width="49%"></a>
+  <a href="https://github.com/sujeenthiran/cyber-audit"><img src="assets/card-cyber-audit.svg" alt="cyber-audit" width="49%"></a>
+  <a href="https://github.com/sujeenthiran/mes-infos-ont-fuite"><img src="assets/card-mes-infos-ont-fuite.svg" alt="mes-infos-ont-fuite" width="49%"></a>
 </p>
 
 <p align="center"><a href="https://github.com/sujeenthiran/mon-soc"><img src="https://raw.githubusercontent.com/sujeenthiran/mon-soc/main/docs/capture.png" alt="Capture du tableau de bord Mon SOC (données de démonstration)" width="98%"></a><br><sub>Mon SOC – tableau de bord de supervision (données de démonstration)</sub></p>
@@ -82,6 +84,7 @@ Projets d'études repris en 2026 : **audit de sécurité et remédiation** des v
 ### 📈 En ce moment
 
 - 🔧 J'améliore mon SOC maison et je documente mon homelab
+- 🕵️ Je viens de publier **[Mes infos ont fuité ?](https://github.com/sujeenthiran/mes-infos-ont-fuite)**, un outil simple pour vérifier ses fuites de données
 - 📚 Je continue à m'entraîner sur TryHackMe et Hack The Box
 - 🎮 En équipe Ydays : conception d'un scénario de crise ransomware (« Cyber War Room ») pour une compétition entre campus Ynov
 
