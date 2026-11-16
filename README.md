@@ -87,3 +87,4 @@ Projets d'études repris en 2026 : **audit de sécurité et remédiation** des v
 
 ---
 <p align="center"><i>Comprendre comment fonctionne une infrastructure pour mieux la protéger.</i></p>
+<p align="center"><sub>Dernière mise à jour : novembre 2026</sub></p>
