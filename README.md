@@ -25,6 +25,7 @@
   <a href="https://github.com/sujeenthiran/mon-soc"><img src="assets/card-mon-soc.svg" alt="mon-soc" width="49%"></a>
   <a href="https://github.com/sujeenthiran/cyber-audit"><img src="assets/card-cyber-audit.svg" alt="cyber-audit" width="49%"></a>
   <a href="https://github.com/sujeenthiran/mes-infos-ont-fuite"><img src="assets/card-mes-infos-ont-fuite.svg" alt="mes-infos-ont-fuite" width="49%"></a>
+  <a href="https://github.com/sujeenthiran/cyber-ai"><img src="assets/card-cyber-ai.svg" alt="cyber-ai" width="49%"></a>
 </p>
 
 <p align="center"><a href="https://github.com/sujeenthiran/mon-soc"><img src="https://raw.githubusercontent.com/sujeenthiran/mon-soc/main/docs/capture.png" alt="Capture du tableau de bord Mon SOC (données de démonstration)" width="98%"></a><br><sub>Mon SOC – tableau de bord de supervision (données de démonstration)</sub></p>
